@@ -26,7 +26,7 @@ SECRET_KEY = 'se@_y3l_y@9@v&2z#w+u_nk=oqxl5#(=w)g#554q%3w5991eeo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['myeyekeeper.herokuapp.com']
 
 
 # Application definition
