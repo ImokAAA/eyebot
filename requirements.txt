@@ -1,0 +1,13 @@
+asgiref==3.2.10
+certifi==2020.6.20
+cffi==1.14.1
+cryptography==3.0
+decorator==4.4.2
+Django==3.1
+gunicorn==20.0.4
+pycparser==2.20
+python-telegram-bot==12.8
+pytz==2020.1
+six==1.15.0
+sqlparse==0.3.1
+tornado==6.0.4
